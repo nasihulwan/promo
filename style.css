@@ -46,8 +46,6 @@ body, html {
   margin-top: 50px; /* video turun sedikit lebih jauh */
 }
 
-
- /*undian*/
 /* Gambar Undian di Tengah dan Responsif */
 .undian-section img {
   display: block;
@@ -138,6 +136,10 @@ body, html {
   .undian-info h2 {
     font-size: 18px;
   }
+}
+
+html {
+  scroll-behavior: smooth;
 }
 
 
